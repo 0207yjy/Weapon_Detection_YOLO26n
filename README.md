@@ -12,7 +12,7 @@ The model is optimized for lightweight deployment and is suitable for edge devic
 
 | Property | Value |
 |----------|-------|
-| **Model** | YOLOv26n |
+| **Model** | YOLO26n |
 | **Input Size** | 320 × 320 |
 | **Framework** | Ultralytics YOLO |
 | **Task** | Object Detection |
