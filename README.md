@@ -1,4 +1,4 @@
-# YOLOv26n Weapon Detection Model
+# YOLO26n Weapon Detection Model
 
 ## Overview
 
